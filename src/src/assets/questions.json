@@ -1,0 +1,793 @@
+{
+	"Entertainment": [
+		
+			{
+				"question": "¿Cuál es la ciudad más grande en la región Costa de Ecuador?",
+				"answers": ["Guayaquil", "Manta", "Portoviejo", "Machala"],
+				"correctAnswer": "Guayaquil"
+			},
+			{
+				"question": "¿Cuál es el puerto más importante de la región Costa?",
+				"answers": ["Puerto de Guayaquil", "Puerto de Manta", "Puerto de Esmeraldas", "Puerto de Machala"],
+				"correctAnswer": "Puerto de Guayaquil"
+			},
+			{
+				"question": "¿Cuál es la playa más conocida en la región Costa de Ecuador?",
+				"answers": ["Salinas", "Montañita", "Atacames", "Bahía de Caráquez"],
+				"correctAnswer": "Salinas"
+			},
+			{
+				"question": "¿Qué ciudad es conocida como la 'Capital Banquera del Ecuador'?",
+				"answers": ["Guayaquil", "Quito", "Cuenca", "Machala"],
+				"correctAnswer": "Guayaquil"
+			},
+			{
+				"question": "¿Qué provincia de la región Costa es conocida por su producción de cacao?",
+				"answers": ["Los Ríos", "Guayas", "Manabí", "Esmeraldas"],
+				"correctAnswer": "Los Ríos"
+			},
+			{
+				"question": "¿En qué ciudad se encuentra el malecón 2000?",
+				"answers": ["Guayaquil", "Manta", "Portoviejo", "Machala"],
+				"correctAnswer": "Guayaquil"
+			},
+			{
+				"question": "¿Cuál es el principal río que atraviesa la ciudad de Guayaquil?",
+				"answers": ["Río Guayas", "Río Daule", "Río Babahoyo", "Río Esmeraldas"],
+				"correctAnswer": "Río Guayas"
+			},
+			{
+				"question": "¿Qué ciudad es famosa por su Carnaval en la región Costa?",
+				"answers": ["Salinas", "Guayaquil", "Manta", "Esmeraldas"],
+				"correctAnswer": "Salinas"
+			},
+			{
+				"question": "¿Cuál es la ciudad conocida por su producción de camarón en la región Costa?",
+				"answers": ["Machala", "Guayaquil", "Manta", "Portoviejo"],
+				"correctAnswer": "Machala"
+			},
+			{
+				"question": "¿Qué isla turística se encuentra en la región Costa de Ecuador?",
+				"answers": ["Isla de la Plata", "Isla Galápagos", "Isla Santa Cruz", "Isla San Cristóbal"],
+				"correctAnswer": "Isla de la Plata"
+			},
+			{
+				"question": "¿Cuál es la ciudad principal de la provincia de Manabí?",
+				"answers": ["Portoviejo", "Manta", "Chone", "Jipijapa"],
+				"correctAnswer": "Portoviejo"
+			},
+			{
+				"question": "¿Qué ciudad es conocida por su festival de la marimba en la región Costa?",
+				"answers": ["Esmeraldas", "Guayaquil", "Manta", "Machala"],
+				"correctAnswer": "Esmeraldas"
+			},
+			{
+				"question": "¿Cuál es la principal actividad económica de la ciudad de Manta?",
+				"answers": ["Pesca", "Agricultura", "Turismo", "Ganadería"],
+				"correctAnswer": "Pesca"
+			},
+			{
+				"question": "¿Qué ciudad costera es famosa por el surf en Ecuador?",
+				"answers": ["Montañita", "Salinas", "Atacames", "Bahía de Caráquez"],
+				"correctAnswer": "Montañita"
+			},
+			{
+				"question": "¿Cuál es el nombre de la reserva natural en la región Costa conocida por sus manglares?",
+				"answers": ["Reserva Ecológica Manglares Churute", "Parque Nacional Cajas", "Reserva de Producción Faunística Chimborazo", "Parque Nacional Yasuní"],
+				"correctAnswer": "Reserva Ecológica Manglares Churute"
+			}
+		
+		
+	],
+	"Geography": [
+		{
+			"question": "¿Cuál es el volcán ubicado en el centro de la Sierra ecuatoriana?",
+			"answers": ["Cotopaxi", "Tungurahua", "Chimborazo", "Antisana"],
+			"correctAnswer": "Chimborazo"
+		},
+		
+		{
+			"question": "¿Qué clima predominante se encuentra en la Sierra?",
+			"answers": ["Tropical", "Húmero", "Templado y frío", "Seco"],
+			"correctAnswer": "Templado y frío"
+		},
+		{
+			"question": "¿Qué lenguas indígenas se hablan en la Sierra?",
+			"answers": ["Quechua", "Shuar", "Inglés", "Español"],
+			"correctAnswer": "Quechua"
+		},
+		{
+			"question": "¿Qué parque nacional se encuentran en la Sierra?",
+			"answers": [
+				"Machalilla", 
+				"Sangay", 
+				"Cerro Blanco", 
+				"Churute"
+			],
+			"correctAnswer": "Sangay"
+		},
+
+		{
+			"question": "¿Cuál es la principal zona agrícola de la Sierra?",
+			"answers": ["Sierra Sur", "Sierra Central", "Sierra Norte", "Esmeraldas"],
+			"correctAnswer": "Sierra Central"
+		},
+		{
+			"question": "¿Qué provincia conforma la región Sierra?",
+			"answers": ["Pastaza", "Los Ríos", "Azuay", "Tena"],
+			"correctAnswer": "Azuay"
+		},
+
+		{
+			"question": "¿A qué provincia se le conoce como la tierra de las flores y las frutas?",
+			"answers": ["Riobamba", "Cañar", "Ambato", "Guaranda"],
+			"correctAnswer": "Ambato"
+		},
+		{
+			"question": "¿Cómo se llama el famoso mercado indígena en Otavalo?",
+			"answers": ["Plaza de los Ponchos", "Atuntaqui", "San Juan", "San Antonio"],
+			"correctAnswer": "Plaza de los Ponchos"
+		},
+
+
+		{
+			"question": "¿Qué cordillera atraviesa la región Sierra?",
+			"answers": [
+				"La cordillera de las Montañas Rocosas ", 
+				"La cordillera de los Alpes", 
+				"La cordillera de los Andes", 
+				"La cordillera de los Pirineos"
+			],
+			"correctAnswer": "La cordillera de los Andes"
+		},
+		{
+			"question": "¿Cuál es las principal actividad económica de la Sierra?",
+			"answers": ["Explotación de crudo", "Pesca", "Minería", "Agricultura"],
+			"correctAnswer": "Agricultura"
+		},
+
+
+		{
+			"question": "En qué provincia se encuentra el punto más alto de Ecuador",
+			"answers": ["Guayas", "Chimborazo", "Cotopaxi", "Quevedo"],
+			"correctAnswer": "Chimborazo"
+		},
+		{
+			"question": "¿Cuál es el principal lago en la Sierra de Ecuador?",
+			"answers": ["San Pablo", "Yambo", "Colta", "Aguarico"],
+			"correctAnswer": "San Pablo"
+		},
+		{
+			"question": "¿Cuál es el principal producto de exportación en la Sierra?",
+			"answers": ["Papas", "Rosas", "Mariscos", "Ropa"],
+			"correctAnswer": "Rosas"
+		},
+		{
+			"question": "¿Qué ciudad es conocida como la Atenas del Ecuador?",
+			"answers": ["Imbabura", "Cuenca", "Manta", "Zamora"],
+			"correctAnswer": "Cuenca"
+		},
+		{
+			"question": "¿Qué recurso es esencial para la agricultura en la Sierra?",
+			"answers": ["Abono", "Agua de deshielo", "Papel", "Gasolina"],
+			"correctAnswer": "Agua de deshielo"
+		}
+	],
+	"Science": [
+		{
+			"question": "What is the chemical symbol for gold?",
+			"answers": ["Au", "Ag", "Cu", "Fe"],
+			"correctAnswer": "Au"
+		},
+		{
+			"question": "What is the triangle that has three equal sides called?",
+			"answers": ["Equilateral", "Isosceles", "Scalene", "Right"],
+			"correctAnswer": "Equilateral"
+		},
+		{
+			"question": "What is an oviparous?",
+			"answers": [
+				"An animal that lays eggs",
+				"An animal that gives birth",
+				"An animal that flies",
+				"An animal that lives in the water"
+			],
+			"correctAnswer": "An animal that lays eggs"
+		},
+		{
+			"question": "Cartography is the study of what?",
+			"answers": ["Maps", "Cars", "Cats", "Carpets"],
+			"correctAnswer": "Maps"
+		},
+		{
+			"question": "If 50 is 100%, what is 90%?",
+			"answers": ["45", "10", "100", "50"],
+			"correctAnswer": "45"
+		},
+		{
+			"question": "How many legs does a fly have?",
+			"answers": ["6", "4", "8", "2"],
+			"correctAnswer": "6"
+		},
+		{
+			"question": "What is the smallest unit of matter?",
+			"answers": ["Atom", "Molecule", "Cell", "Electron"],
+			"correctAnswer": "Atom"
+		},
+		{
+			"question": "What element do all acids contain?",
+			"answers": ["Hydrogen", "Oxygen", "Helium", "Nitrogen"],
+			"correctAnswer": "Hydrogen"
+		},
+		{
+			"question": "What is the name of the process by which plants convert sunlight into energy?",
+			"answers": [
+				"Photosynthesis",
+				"Respiration",
+				"Digestion",
+				"Fermentation"
+			],
+			"correctAnswer": "Photosynthesis"
+		},
+		{
+			"question": "What is the name of the force that pulls objects toward each other?",
+			"answers": ["Gravity", "Magnetism", "Friction", "Electricity"],
+			"correctAnswer": "Gravity"
+		},
+		{
+			"question": "What is the metal found in the center of the earth?",
+			"answers": ["Iron", "Nickel", "Copper", "Zinc"],
+			"correctAnswer": "Iron"
+		},
+		{
+			"question": "What are diamonds made of?",
+			"answers": ["Carbon", "Glass", "Silver", "Platinum"],
+			"correctAnswer": "Carbon"
+		},
+		{
+			"question": "What is the name of the process by which a solid turns into a gas without passing through the liquid state?",
+			"answers": [
+				"Sublimation",
+				"Evaporation",
+				"Condensation",
+				"Freezing"
+			],
+			"correctAnswer": "Sublimation"
+		},
+		{
+			"question": "What is the name of the protein that gives skin, hair, and nails their strength?",
+			"answers": ["Keratin", "Collagen", "Elastin", "Myosin"],
+			"correctAnswer": "Keratin"
+		},
+		{
+			"question": "How many chemical elements are there on the periodic table?",
+			"answers": ["118", "92", "104", "113"],
+			"correctAnswer": "118"
+		},
+		{
+			"question": "What is the first element on the periodic table?",
+			"answers": ["Hydrogen", "Helium", "Lithium", "Oxygen"],
+			"correctAnswer": "Hydrogen"
+		},
+		{
+			"question": "What vitamin can be synthesized when exposed to sunlight?",
+			"answers": ["Vitamin D", "Vitamin A", "Vitamin C", "Vitamin E"],
+			"correctAnswer": "Vitamin D"
+		},
+		{
+			"question": "Every how many years does Halley's Comet pass the earth?",
+			"answers": ["75", "86", "96", "106"],
+			"correctAnswer": "75"
+		},
+		{
+			"question": "What is the only even prime number?",
+			"answers": ["2", "14", "6", "8"],
+			"correctAnswer": "2"
+		},
+		{
+			"question": "-3 + 10 ÷ 2",
+			"answers": ["2", "1", "4", "3.5"],
+			"correctAnswer": "2"
+		},
+		{
+			"question": "What does the gallon measure?",
+			"answers": ["Volume", "Weight", "Distance", "Time"],
+			"correctAnswer": "Volume"
+		},
+		{
+			"question": "What does the newton measure?",
+			"answers": ["Force", "Weight", "Distance", "Time"],
+			"correctAnswer": "Force"
+		}
+	],
+	"Technology": [
+		
+			{
+			  "question": "¿Por qué se llama Puyo la ciudad capital de la provincia de Pastaza?",
+			  "answers": [
+				"Porque Puyo significa en Kichwa 'Neblina'",
+				"Porque Puyo es el nombre de un río cercano",
+				"Porque Puyo fue el nombre del primer gobernador",
+				"Porque Puyo significa 'Río' en Shuar"
+			  ],
+			  "correctAnswer": "Porque Puyo significa en Kichwa 'Neblina'"
+			},
+			{
+			  "question": "¿Qué ciudad de la Amazonía ecuatoriana es conocida como 'La Capital de la Biodiversidad'?",
+			  "answers": [
+				"Tena",
+				"Macas",
+				"Puyo",
+				"Coca"
+			  ],
+			  "correctAnswer": "Tena"
+			},
+			{
+			  "question": "¿Cuál es la principal actividad económica de la ciudad de Coca?",
+			  "answers": [
+				"Turismo",
+				"Agricultura",
+				"Extracción de petróleo",
+				"Pesca"
+			  ],
+			  "correctAnswer": "Extracción de petróleo"
+			},
+			{
+			  "question": "¿En qué provincia de la Amazonía ecuatoriana se encuentra la ciudad de Macas?",
+			  "answers": [
+				"Pastaza",
+				"Morona Santiago",
+				"Napo",
+				"Orellana"
+			  ],
+			  "correctAnswer": "Morona Santiago"
+			},
+			{
+			  "question": "¿Cuál es el río que pasa por la ciudad de Tena?",
+			  "answers": [
+				"Río Napo",
+				"Río Pastaza",
+				"Río Putumayo",
+				"Río Aguarico"
+			  ],
+			  "correctAnswer": "Río Napo"
+			},
+			{
+			  "question": "¿Qué ciudad de la Amazonía ecuatoriana es conocida por sus aguas termales?",
+			  "answers": [
+				"Baños",
+				"Puyo",
+				"Papallacta",
+				"Tena"
+			  ],
+			  "correctAnswer": "Papallacta"
+			},
+			{
+			  "question": "¿Cuál es la ciudad más grande de la provincia de Sucumbíos?",
+			  "answers": [
+				"Nueva Loja (Lago Agrio)",
+				"Coca",
+				"Tena",
+				"Puyo"
+			  ],
+			  "correctAnswer": "Nueva Loja (Lago Agrio)"
+			},
+			{
+			  "question": "¿Qué ciudad amazónica ecuatoriana es conocida por la fiesta de la chonta?",
+			  "answers": [
+				"Archidona",
+				"Macas",
+				"Coca",
+				"Zamora"
+			  ],
+			  "correctAnswer": "Archidona"
+			},
+			{
+			  "question": "¿Qué ciudad de la Amazonía ecuatoriana tiene un zoológico llamado 'El Arca'?",
+			  "answers": [
+				"Tena",
+				"Puyo",
+				"Macas",
+				"Nueva Loja"
+			  ],
+			  "correctAnswer": "Tena"
+			},
+			{
+			  "question": "¿Qué ciudad amazónica es conocida como la 'Puerta de la Amazonía'?",
+			  "answers": [
+				"Macas",
+				"Puyo",
+				"Tena",
+				"Coca"
+			  ],
+			  "correctAnswer": "Macas"
+			},
+			{
+			  "question": "¿Cuál es la principal festividad de la ciudad de Macas?",
+			  "answers": [
+				"Fiesta de la Chonta",
+				"Fiesta de la Canelazo",
+				"Fiesta de la Guayusa",
+				"Fiesta de la Yuca"
+			  ],
+			  "correctAnswer": "Fiesta de la Chonta"
+			},
+			{
+			  "question": "¿Qué ciudad amazónica ecuatoriana está cerca del Parque Nacional Yasuní?",
+			  "answers": [
+				"Coca",
+				"Macas",
+				"Puyo",
+				"Tena"
+			  ],
+			  "correctAnswer": "Coca"
+			},
+			{
+			  "question": "¿Cuál es el nombre del aeropuerto de la ciudad de Puyo?",
+			  "answers": [
+				"Aeropuerto General Rivadeneira",
+				"Aeropuerto Río Amazonas",
+				"Aeropuerto Edmundo Carvajal",
+				"Aeropuerto Jumandy"
+			  ],
+			  "correctAnswer": "Aeropuerto Edmundo Carvajal"
+			},
+			{
+			  "question": "¿Qué ciudad amazónica ecuatoriana es conocida por su producción de cacao?",
+			  "answers": [
+				"Nueva Loja",
+				"Macas",
+				"Tena",
+				"Zamora"
+			  ],
+			  "correctAnswer": "Zamora"
+			},
+			{
+			  "question": "¿En qué ciudad de la Amazonía ecuatoriana se encuentra la cascada San Rafael?",
+			  "answers": [
+				"Tena",
+				"Puyo",
+				"Macas",
+				"Nueva Loja"
+			  ],
+			  "correctAnswer": "Nueva Loja"
+			}
+		  ],
+		  
+	"Art": [
+		{
+			"question": "¿Cuál de las siguientes ciudades de Galápagos es conocida por su bahía que alberga leones marinos?",
+			"answers": [
+				"Puerto Ayora",
+				"Puerto Villamil",
+				"Puerto Baquerizo Moreno",
+				"Puerto Chino"
+			],
+			"correctAnswer": "Puerto Baquerizo Moreno"
+		},
+		{
+			"question": "¿Cuál de las siguientes ciudades de Galápagos es la puerta de entrada principal para turistas?",
+			"answers": [
+				"Puerto Villamil",
+				"Puerto Ayora",
+				"Puerto Chino",
+				"Puerto Baquerizo Moreno"
+			],
+			"correctAnswer": "Puerto Ayora"
+		},
+		{
+			"question": "¿En cuál de las siguientes ciudades se encuentra la Estación Científica Charles Darwin?",
+			"answers": [
+				"Puerto Ayora",
+				"Puerto Villamil",
+				"Puerto Baquerizo Moreno",
+				"Puerto Chino"
+			],
+			"correctAnswer": "Puerto Ayora"
+		},
+		{
+			"question": "¿Cuál de las siguientes ciudades es la capital administrativa de Galápagos?",
+			"answers": [
+				"Puerto Villamil",
+				"Puerto Ayora",
+				"Puerto Baquerizo Moreno",
+				"Puerto Chino"
+			],
+			"correctAnswer": "Puerto Baquerizo Moreno"
+		},
+		{
+			"question": "¿Cuál de las siguientes ciudades está ubicada en la isla Isabela?",
+			"answers": [
+				"Puerto Ayora",
+				"Puerto Villamil",
+				"Puerto Baquerizo Moreno",
+				"Puerto Chino"
+			],
+			"correctAnswer": "Puerto Villamil"
+		},
+		{
+			"question": "¿Cuál de las siguientes ciudades es conocida por su tortuga gigante 'Diego'?",
+			"answers": [
+				"Puerto Ayora",
+				"Puerto Villamil",
+				"Puerto Baquerizo Moreno",
+				"Puerto Chino"
+			],
+			"correctAnswer": "Puerto Ayora"
+		},
+		{
+			"question": "¿En cuál de las siguientes ciudades puedes visitar el Centro de Crianza Arnaldo Tupiza?",
+			"answers": [
+				"Puerto Villamil",
+				"Puerto Ayora",
+				"Puerto Baquerizo Moreno",
+				"Puerto Chino"
+			],
+			"correctAnswer": "Puerto Villamil"
+		},
+		{
+			"question": "¿Cuál de las siguientes ciudades tiene acceso a la Playa de los Alemanes?",
+			"answers": [
+				"Puerto Ayora",
+				"Puerto Villamil",
+				"Puerto Baquerizo Moreno",
+				"Puerto Chino"
+			],
+			"correctAnswer": "Puerto Ayora"
+		},
+		{
+			"question": "¿Cuál de las siguientes ciudades es famosa por la playa Tortuga Bay?",
+			"answers": [
+				"Puerto Ayora",
+				"Puerto Villamil",
+				"Puerto Baquerizo Moreno",
+				"Puerto Chino"
+			],
+			"correctAnswer": "Puerto Ayora"
+		},
+		{
+			"question": "¿En cuál de las siguientes ciudades se encuentra el Centro de Interpretación de Galápagos?",
+			"answers": [
+				"Puerto Ayora",
+				"Puerto Villamil",
+				"Puerto Baquerizo Moreno",
+				"Puerto Chino"
+			],
+			"correctAnswer": "Puerto Baquerizo Moreno"
+		},
+		{
+			"question": "¿Cuál de las siguientes ciudades está situada en la isla Santa Cruz?",
+			"answers": [
+				"Puerto Ayora",
+				"Puerto Villamil",
+				"Puerto Baquerizo Moreno",
+				"Puerto Chino"
+			],
+			"correctAnswer": "Puerto Ayora"
+		},
+		{
+			"question": "¿Cuál de las siguientes ciudades ofrece tours a Los Túneles?",
+			"answers": [
+				"Puerto Ayora",
+				"Puerto Villamil",
+				"Puerto Baquerizo Moreno",
+				"Puerto Chino"
+			],
+			"correctAnswer": "Puerto Villamil"
+		},
+		{
+			"question": "¿Cuál de las siguientes ciudades tiene acceso a la Playa Mann?",
+			"answers": [
+				"Puerto Ayora",
+				"Puerto Villamil",
+				"Puerto Baquerizo Moreno",
+				"Puerto Chino"
+			],
+			"correctAnswer": "Puerto Baquerizo Moreno"
+		},
+		{
+			"question": "¿En cuál de las siguientes ciudades puedes encontrar el Muro de las Lágrimas?",
+			"answers": [
+				"Puerto Ayora",
+				"Puerto Villamil",
+				"Puerto Baquerizo Moreno",
+				"Puerto Chino"
+			],
+			"correctAnswer": "Puerto Villamil"
+		},
+		{
+			"question": "¿Cuál de las siguientes ciudades es la más grande de la isla Isabela?",
+			"answers": [
+				"Puerto Ayora",
+				"Puerto Villamil",
+				"Puerto Baquerizo Moreno",
+				"Puerto Chino"
+			],
+			"correctAnswer": "Puerto Villamil"
+		}
+	],
+	"Space": [
+		{
+			"question": "What is the largest planet in our solar system?",
+			"answers": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+			"correctAnswer": "Jupiter"
+		},
+		{
+			"question": "What is the name of the brightest star in the night sky?",
+			"answers": [
+				"Sirius",
+				"Proxima Centauri",
+				"Betelgeuse",
+				"Aldebaran"
+			],
+			"correctAnswer": "Sirius"
+		},
+		{
+			"question": "What is the name of the only natural satellite of Earth?",
+			"answers": ["Moon", "Mars", "Venus", "Jupiter"],
+			"correctAnswer": "Moon"
+		},
+		{
+			"question": "What is the name of the first artificial satellite launched into space?",
+			"answers": ["Sputnik 1", "Explorer 1", "Vanguard 1", "Vostok 1"],
+			"correctAnswer": "Sputnik 1"
+		},
+		{
+			"question": "What is the speed of light approximately?",
+			"answers": [
+				"300,000 km/s",
+				"200,000 km/s",
+				"100,000 km/s",
+				"400,000 km/s"
+			],
+			"correctAnswer": "300,000 km/s"
+		},
+		{
+			"question": "What is the name of the largest known asteroid in our solar system?",
+			"answers": ["Ceres", "Vesta", "Pallas", "Hygiea"],
+			"correctAnswer": "Ceres"
+		},
+		{
+			"question": "What is the name of the spacecraft that landed on Mars in 2021 as part of the Mars 2020 mission?",
+			"answers": ["Perseverance", "Curiosity", "Opportunity", "Spirit"],
+			"correctAnswer": "Perseverance"
+		},
+		{
+			"question": "How long does it take for sunlight to reach the earth?",
+			"answers": ["8 minutes", "3.5 hours", "26 seconds", "10 seconds"],
+			"correctAnswer": "8 minutes"
+		},
+		{
+			"question": "About how many stars are there in the solar system?",
+			"answers": ["1", "100", "100,000", "Too many to count"],
+			"correctAnswer": "1"
+		},
+		{
+			"question": "What is the most common matter in the universe?",
+			"answers": ["Hydrogen", "Dark matter", "Helium", "Oxygen"],
+			"correctAnswer": "Hydrogen"
+		},
+		{
+			"question": "About what temperature is it in space?",
+			"answers": ["-270°C", "-120°C", "0°C", "38°C"],
+			"correctAnswer": "-270°C"
+		},
+		{
+			"question": "Mainly which atoms do stars use in their fusion process?",
+			"answers": ["Hydrogen", "Helium", "Oxygen", "Carbon"],
+			"correctAnswer": "Hydrogen"
+		},
+		{
+			"question": "What is inside a black hole in the movie \"Interstellar\"?",
+			"answers": [
+				"A fifth dimension",
+				"A planet",
+				"A spaceship",
+				"Nothing"
+			],
+			"correctAnswer": "A fifth dimension"
+		},
+		{
+			"question": "What is the geometric figure that describes the orbit of the planets?",
+			"answers": ["Ellipse", "Circle", "Circumference", "Square"],
+			"correctAnswer": "Ellipse"
+		},
+		{
+			"question": "How many moons does Mars have?",
+			"answers": ["1", "2", "4", "Does not have"],
+			"correctAnswer": "2"
+		},
+		{
+			"question": "What is the name of the first man to walk on the moon?",
+			"answers": [
+				"Neil Armstrong",
+				"Buzz Aldrin",
+				"Alan Shepard",
+				"Yuri Gagarin"
+			],
+			"correctAnswer": "Neil Armstrong"
+		}
+	],
+	"General culture": [
+		{
+			"question": "What part of the ship does the nautical term \"starboard\" refer to?",
+			"answers": ["Right", "Left", "Front", "Back"],
+			"correctAnswer": "Right"
+		},
+		{
+			"question": "Which river runs through London?",
+			"answers": ["Thames", "Seine", "Danube", "Nile"],
+			"correctAnswer": "Thames"
+		},
+		{
+			"question": "Who turns into Hulk?",
+			"answers": [
+				"Bruce Banner",
+				"Tony Stark",
+				"Peter Parker",
+				"Steve Rogers"
+			],
+			"correctAnswer": "Bruce Banner"
+		},
+		{
+			"question": "How many players does a soccer team have on the field?",
+			"answers": ["11", "10", "9", "12"],
+			"correctAnswer": "11"
+		},
+		{
+			"question": "Which of these is a percussion instrument?",
+			"answers": ["Drum", "Violin", "Flute", "Trumpet"],
+			"correctAnswer": "Drum"
+		},
+		{
+			"question": "What color is the \"G\" in the Google logo?",
+			"answers": ["Blue", "Red", "Yellow", "Green"],
+			"correctAnswer": "Blue"
+		},
+		{
+			"question": "What holds the Oscar trophy figurine?",
+			"answers": ["A sword", "A torch", "A book", "Nothing"],
+			"correctAnswer": "A sword"
+		},
+		{
+			"question": "What instrument does Sherlock Holmes play?",
+			"answers": ["Violin", "Flute", "Piano", "Guitar"],
+			"correctAnswer": "Violin"
+		},
+		{
+			"question": "What is a falchion?",
+			"answers": ["A sword", "A shield", "A helmet", "A spear"],
+			"correctAnswer": "A sword"
+		},
+		{
+			"question": "How many hearts does an octopus have?",
+			"answers": ["3", "2", "1", "0"],
+			"correctAnswer": "3"
+		},
+		{
+			"question": "What does the Tin Woodman want in the novel \"The Wonderful Wizard of Oz\"?",
+			"answers": ["A heart", "A brain", "Courage", "A home"],
+			"correctAnswer": "A heart"
+		},
+		{
+			"question": "What color is the hair of the protagonist in the anime \"Death Note\"?",
+			"answers": ["Black", "Blonde", "Red", "Brown"],
+			"correctAnswer": "Brown"
+		},
+		{
+			"question": "What is the name of the holy book of Islam?",
+			"answers": ["Quran", "Bible", "Torah", "Vedas"],
+			"correctAnswer": "Quran"
+		},
+		{
+			"question": "How old is a lustrum?",
+			"answers": ["5 years", "10 years", "15 years", "20 years"],
+			"correctAnswer": "5 years"
+		},
+		{
+			"question": "How many sides does a hexagon have?",
+			"answers": ["6", "5", "7", "8"],
+			"correctAnswer": "6"
+		}
+	]
+}

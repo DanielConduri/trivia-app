@@ -1,0 +1,23 @@
+[
+	{
+		"id": "ab",
+		"name": "Entertainment",
+		"color": "#fbff00e6"
+		
+	},
+	{
+		"id": "ac",
+		"name": "Technology",
+		"color": "#1bff00c7"
+	},
+	{
+		"id": "ad",
+		"name": "Geography",
+		"color": "#ff7b1ede"
+	},
+	{
+		"id": "ae",
+		"name": "Art",
+		"color": "#17db8abd"
+	}
+]
